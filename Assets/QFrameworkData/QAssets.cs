@@ -127,7 +127,6 @@ namespace QAssetBundle
     {
         public const string BundleName = "shieldbreak attack notice_prefab";
         public const string SHIELD_BREAK_ATTACK_NOTICE = "shield break attack notice";
-        public const string SHIELDBREAK_ATTACK_NOTICE = "shieldbreak attack notice";
     }
     public class Skeleton_prefab
     {
@@ -143,7 +142,6 @@ namespace QAssetBundle
     {
         public const string BundleName = "statue shieldbreak attack_prefab";
         public const string STATUE_SHIELD_BREAK_ATTACK = "statue shield break attack";
-        public const string STATUE_SHIELDBREAK_ATTACK = "statue shieldbreak attack";
     }
     public class Sub_theme_ogg
     {

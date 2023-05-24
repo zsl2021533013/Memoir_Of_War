@@ -6883,7 +6883,7 @@ MonoBehaviour:
   m_XAxis:
     Value: 0
     m_SpeedMode: 0
-    m_MaxSpeed: 150
+    m_MaxSpeed: 220
     m_AccelTime: 0.2
     m_DecelTime: 0.05
     m_InputAxisName: Mouse X

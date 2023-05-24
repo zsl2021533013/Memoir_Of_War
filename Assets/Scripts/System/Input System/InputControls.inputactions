@@ -175,6 +175,17 @@
                 },
                 {
                     "name": "",
+                    "id": "38c5167d-ead1-4a7c-a218-bcb5206c3302",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Defence",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "36803266-d147-4202-984f-c1ee70ba8109",
                     "path": "<Gamepad>/buttonEast",
                     "interactions": "",
